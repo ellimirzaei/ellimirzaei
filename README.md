@@ -62,14 +62,14 @@ I have worked with several testing methodologies including Agile, Waterfall, and
 George Mason University – Fairfax, VA
 
 ## Certifications
-- ![ISTQB Certified Tester] (https://atsqa.org/certified-testers/profile/0fccc7a7503349b0816c7bcee50a56c0)
-- ![Certified Scrum Master] (https://www.credly.com/badges/a5c3dede-22eb-4558-9a6d-0488f8c80b7f/linked_in_profile)
-- ![Automation Testing from George Mason University] (https://drive.google.com/file/d/1sccr7IF_qe4Ua5t24FyYyyW2RUkMta6Q/view?usp=sharing)
-- ![IBM AI Engineering Professional] (https://drive.google.com/file/d/1Uv6FlpMA3D4-ZNk1QkJOEkPo29IWk9W1/view?usp=sharing)
-- ![Python for Data Science and Machine] (https://drive.google.com/file/d/1_FR27fPIX8oMe7l_jONoZA7YKHKNXdBL/view?usp=sharing)
-- ![Katalon Studio 2020 for Web API Test Automation] (https://drive.google.com/file/d/1XNHrbKWonURWgqPaTzV8cDczn1dBemdO/view?usp=sharing)
-- ![Automation Testing using Selenium] (https://drive.google.com/file/d/1gwDl7HgDJdJNnen6jzI2GMuJskzYPZGJ/view?usp=sharing)
-- ![Excel Expert Certified] (https://drive.google.com/file/d/1C55rFGicXoDAu27Cl1ztNOFjRw_ynDFb/view?usp=sharing)
+- [ISTQB Certified Tester] (https://atsqa.org/certified-testers/profile/0fccc7a7503349b0816c7bcee50a56c0)
+- [Certified Scrum Master] (https://www.credly.com/badges/a5c3dede-22eb-4558-9a6d-0488f8c80b7f/linked_in_profile)
+- [Automation Testing from George Mason University] (https://drive.google.com/file/d/1sccr7IF_qe4Ua5t24FyYyyW2RUkMta6Q/view?usp=sharing)
+- [IBM AI Engineering Professional] (https://drive.google.com/file/d/1Uv6FlpMA3D4-ZNk1QkJOEkPo29IWk9W1/view?usp=sharing)
+- [Python for Data Science and Machine] (https://drive.google.com/file/d/1_FR27fPIX8oMe7l_jONoZA7YKHKNXdBL/view?usp=sharing)
+- [Katalon Studio 2020 for Web API Test Automation] (https://drive.google.com/file/d/1XNHrbKWonURWgqPaTzV8cDczn1dBemdO/view?usp=sharing)
+- [Automation Testing using Selenium] (https://drive.google.com/file/d/1gwDl7HgDJdJNnen6jzI2GMuJskzYPZGJ/view?usp=sharing)
+- [Excel Expert Certified] (https://drive.google.com/file/d/1C55rFGicXoDAu27Cl1ztNOFjRw_ynDFb/view?usp=sharing)
 
 ## Projects & Contributions
 You can explore my personal projects, automation frameworks, and contributions to open-source repositories on my [GitHub Profile](https://github.com/elliemirzaei).
