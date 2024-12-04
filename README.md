@@ -73,7 +73,7 @@ George Mason University – Fairfax, VA
 
 
 ## Projects & Contributions
-You can explore my personal projects, automation frameworks, and contributions to open-source repositories on my [GitHub Profile](https://github.com/elliemirzaei).
+You can explore my personal projects, automation frameworks, and contributions to open-source repositories on my [https://github.com/ellimirzaei?tab=repositories).
 
 ## Contact
 Feel free to reach out to me via email at [elliemirzae@gmail.com](mailto:elliemirzae@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elliemirzaei/).
