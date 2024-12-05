@@ -1,4 +1,4 @@
-# Sr. Software Engineer in Test | Sr. Test Automation Engineer 
+-# Sr. Software Engineer in Test | Sr. Test Automation Engineer 
 ---
 I am a **Sr. Software Engineer in Test** with over 10 years of experience in the QA industry, specializing in both manual and automated testing of client/server and web-based applications. My expertise spans **test automation**, **software engineering**, and **data engineering**, with a strong focus on tools like **Selenium**, **Java**, **Python**, **Maven**, and **Cucumber**, as well as frameworks for large-scale **data systems**.
 
