@@ -1,61 +1,88 @@
-# Ellie Mirzaei - Sr. Software Engineer in Test
+# Sr. Software Engineer in Test | Sr. Test Automation Engineer | Sr. Quality Analyst
 
-**Visa Status**: US Citizen  
-**Phone**: 703-300-8927  
-**E-mail**: [elliemirzae@gmail.com](mailto:elliemirzae@gmail.com)  
+I am a **Sr. Software Engineer in Test** with over 10 years of experience in the QA industry, specializing in both manual and automated testing of client/server and web-based applications. My expertise spans **test automation**, **software engineering**, and **data engineering**, with a strong focus on tools like **Selenium**, **Java**, **Python**, **Maven**, and **Cucumber**, as well as frameworks for large-scale **data systems**.
 
-## About Me
-I am a **Sr. Software Engineer in Test** with over 10 years of experience in the QA industry. My expertise lies in both manual and automated testing of client/server and web-based applications. I am proficient in test automation tools and frameworks, with a strong focus on Selenium, Java, Maven, TestNG, and Cucumber. My experience includes designing robust and scalable test automation frameworks, performing cross-browser testing, and developing comprehensive test plans and reports.
-
-I have worked with several testing methodologies including Agile, Waterfall, and Scrum, and I am passionate about delivering high-quality software that meets business objectives while maintaining performance, security, and usability.
+I am passionate about applying modern **data stack** technologies, including **big data ecosystems** and **real-time databases**, to ensure the reliability and quality of **data pipelines** and applications. I have a proven track record in mentoring and leading teams, making critical decisions on test strategies, and ensuring that software meets business objectives while maintaining high standards for performance, security, and usability.
 
 ## Key Skills
-- **Testing Tools**: Selenium WebDriver, Katalon Studio, IntelliJ, SOAP UI, JMeter, Maven, Postman  
-- **Testing Frameworks**: Cucumber, TestNG, Rest Assured, JUnit  
-- **Methodologies**: Agile Scrum, Waterfall, Test-Driven Development (TDD), Behavior-Driven Development (BDD), Data-Driven, Keyword-Driven, Hybrid  
-- **Programming Languages**: Java, JavaScript, C++, SQL, Gherkin, JSON  
-- **Database Technologies**: MySQL, SQL Server  
-- **CI/CD Tools**: Jenkins, Azure DevOps  
-- **Cloud**: AWS  
-- **Security Clearance**: Confidential (2024-Present)  
+
+### Testing Tools:
+- **Selenium WebDriver**, **Katalon Studio**, **IntelliJ**, **SOAP UI**, **JMeter**, **Maven**, **Postman**, **Great Expectations**, **Lambda Test**
+
+### Testing Frameworks:
+- **Cucumber**, **TestNG**, **Rest Assured**, **JUnit**, **PyTest**
+
+### Data Engineering Tools:
+- **AWS S3**, **Apache Spark**, **Airflow**, **Lakehouse Architectures**, **Real-Time Databases**
+
+### Methodologies:
+- **Agile Scrum**, **Waterfall**, **Test-Driven Development (TDD)**, **Behavior-Driven Development (BDD)**, **Data-Driven**, **Keyword-Driven**, **Hybrid**
+
+### Programming Languages:
+- **Java**, **Python**, **JavaScript**, **C++**, **SQL**, **Gherkin**, **JSON**
+
+### CI/CD Tools:
+- **Jenkins**, **Azure DevOps**, **GitLab CI**, **Docker**
+
+### Cloud:
+- **AWS**, **Azure**
+
+### Security & Governance:
+- **Data Security**, **Information Security**, **Data Governance**
+
+### Databases:
+- **MySQL**, **SQL Server**, **NoSQL**
+
+### Tools for Data Quality:
+- **Great Expectations**, **Data Validation**, **Test Automation for Data Pipelines**
+
+---
 
 ## Professional Experience
 
-### **United States Geological Survey (USGS)**  
+### **United States Geological Survey (USGS)**
 **Automation Engineer / Sr. Quality Analyst**  
-*April 2024 – Present*  
-- Developed and implemented automation frameworks (TDD, BDD, Data-Driven, Keyword-Driven) using Selenium WebDriver, C#, JavaScript.
-- Managed test automation for mission-critical AWS deployments and CI/CD pipelines.
-- Designed and executed comprehensive test plans, executed test cases in HP ALM, and tracked defects in ALM Octane and JIRA.
-- Automated web services testing using SOAP UI with Groovy scripting.
+_April 2024 – Present_
 
-### **CGI**  
+- Spearheaded the automation framework design using **Selenium WebDriver** and **Cucumber** for large-scale AWS deployments, ensuring robust, reusable test components for data validation and application testing.
+- Led the automation efforts for mission-critical **data pipelines**, contributing to the successful deployment of automated test strategies for data quality assurance.
+- Worked with cross-functional teams to develop scalable, high-performance test plans that integrated test automation with CI/CD pipelines (AWS, Jenkins).
+- Implemented automated testing for web services using **SOAP UI** with **Groovy**, improving test efficiency and coverage for API testing.
+- Supported **Agile** processes and led retrospectives focused on enhancing automation processes and code quality, ensuring alignment with business objectives and security standards.
+
+### **CGI**
 **Sr. Software Engineer in Test**  
-*May 2021 – April 2024*  
-- Led the migration project involving data analysis, configuration of the EDW environment, and automation using Selenium WebDriver and Cucumber BDD.
-- Developed and executed test cases for Smoke, Functional, Regression, Integration, and End-to-End testing.
-- Designed SQL queries for validating ETL jobs, ensuring data integrity across the Data Warehouse.
+_May 2021 – April 2024_
 
-### **Verizon**  
+- Led a team in designing and implementing automated testing solutions for the **Data Warehouse**, focusing on **data integrity** and **pipeline testing** using **Selenium WebDriver** and **Cucumber**.
+- Worked with the **data engineering team** to ensure accurate validation of **ETL jobs** and **Big Data systems**, including data validation on **AWS S3** and **Spark**-based frameworks.
+- Integrated test automation into the **CI/CD pipeline** using **Jenkins**, accelerating release cycles and improving test coverage.
+- Automated validation of large datasets and **real-time data** feeds to ensure accuracy and reliability in **Data Warehouse** environments.
+- Mentored junior engineers on best practices in test automation, **BDD**, and **data pipeline validation**.
+
+### **Verizon**
 **Sr. QA Engineer**  
-*Dec 2018 – Apr 2021*  
-- Developed and maintained a comprehensive Selenium WebDriver automation framework for Smoke and Regression testing.
-- Performed REST API testing using Postman, SOAP UI, and Http JAVA Client.
-- Automated test scripts and integrated Jenkins for Continuous Integration (CI) in an Agile environment.
+_Dec 2018 – April 2021_
 
-### **Bloomingdale’s**  
+- Designed and maintained a **Selenium WebDriver** automation framework, improving the efficiency and reliability of testing for web applications.
+- Automated end-to-end tests for complex **data integrations** and **API services**, working closely with data engineers to ensure correct data flows and transformations across systems.
+- Led the integration of test automation into the **CI/CD pipeline** using **Jenkins**, improving test efficiency and enabling faster feedback cycles.
+- Worked with cross-functional teams to design and implement automation strategies for **data validation** in both functional and regression testing.
+
+### **Bloomingdale’s**
 **QA Engineer**  
-*Jun 2016 – Nov 2018*  
-- Developed and implemented automated tests for web applications using Selenium WebDriver and TestNG.
-- Tested APIs and Web Services using SOAP UI and integrated with CI/CD pipelines using Jenkins.
-- Contributed to the development of a BDD framework with Cucumber, reducing script development time.
+_June 2016 – Nov 2018_
 
-### **CareFirst**  
+- Automated testing for web applications using **Selenium WebDriver**, improving test coverage and reducing manual testing efforts.
+- Implemented an automation framework with **Cucumber**, promoting **Behavior-Driven Development (BDD)** practices that resulted in faster delivery and fewer defects.
+- Contributed to the automation of **API** and **web services testing** using **SOAP UI** and **Postman**, validating data flows and ensuring API robustness.
+
+### **CareFirst**
 **Software Tester**  
-*Feb 2014 – May 2016*  
-- Worked on testing healthcare claims processing systems, EDI transactions, and HIPAA compliance.
-- Developed automation scripts for end-to-end testing using Selenium WebDriver.
-- Created complex SQL queries for backend validation and verification of data integrity.
+_Feb 2014 – May 2016_
+
+- Developed and maintained automation scripts for testing healthcare claims processing systems and **EDI transactions**, ensuring compliance with **HIPAA standards**.
+- Built complex **SQL queries** to validate data integrity across healthcare systems, automating backend validation for end-to-end workflows.
 
 ## Education
 **Bachelor's Degree**  
