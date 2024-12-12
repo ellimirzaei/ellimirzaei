@@ -6,35 +6,50 @@ I am passionate about applying modern **data stack** technologies, including **b
 
 ## Key Skills
 
-### Testing Tools:
-- **Selenium WebDriver**, **Katalon Studio**, **IntelliJ**, **SOAP UI**, **JMeter**, **Maven**, **Postman**, **Great Expectations**, **Lambda Test**
+### **Programming Languages**
+- **Java** **Python**, **JavaScript**, **TypeScript**, **HTML/CSS**, **Bash**
 
-### Testing Frameworks:
-- **Cucumber**, **TestNG**, **Rest Assured**, **JUnit**, **PyTest**
+### **Web Automation**
+- **Selenium**, **Cypress**, **RobotFramework**, **Playwright**, **WebDriverIO** **Katalon Studio**
 
-### Data Engineering Tools:
-- **AWS S3**, **Apache Spark**, **Airflow**, **Lakehouse Architectures**, **Real-Time Databases**
+### **Mobile Automation**
+- **Appium**, **Katalon**
 
-### Methodologies:
-- **Agile Scrum**, **Waterfall**, **Test-Driven Development (TDD)**, **Behavior-Driven Development (BDD)**, **Data-Driven**, **Keyword-Driven**, **Hybrid**
+### **API Automation**
+- **REST**, **Cypress**, **Postman**, **SoapUI**, **Karate**
 
-### Programming Languages:
-- **Java**, **Python**, **JavaScript**, **C++**, **SQL**, **Gherkin**, **JSON**
+### **Performance Testing**
+- **jMeter**, **Loader.io**
 
-### CI/CD Tools:
-- **Jenkins**, **Azure DevOps**, **GitLab CI**, **Docker**
-
-### Cloud:
-- **AWS**, **Azure**
-
-### Security & Governance:
-- **Data Security**, **Information Security**, **Data Governance**
-
-### Databases:
+- ### Databases:
 - **MySQL**, **SQL Server**, **NoSQL**
 
-### Tools for Data Quality:
-- **Great Expectations**, **Data Validation**, **Test Automation for Data Pipelines**
+### **CI/CD Tools**
+- **GitHub Actions**, **GitLab CI**, **Jenkins** **Azure DevOps**
+
+### **Development Environments**
+- **Docker**, **Kubernetes**, **Openshift**
+
+### **Behavior-Driven Development (BDD)**
+- **Cucumber.io**, **Behave**, **Serenity**
+
+### **Reporting Tools**
+- **AllureReport**, **Mochawesome**, **Grafana**, **ReportPortal** 
+
+### **HTTP Monitoring**
+- **Fiddler**, **CharlesProxy**, **DevTools**
+
+### **Version Control Systems (VCS)**
+- **Azure DevOps** **GitHub**, **GitLab**, **Bitbucket**
+
+### **Issue Tracking Tools**
+- **Jira**, **Azure DevOps**
+
+### **Test Management Tools**
+- **ALM**, **Jira Xray**, **Testlink**
+
+### **Additional Skills**
+- **Agile & SDLC**, **SQL**, **ChromeDevTools**, **BrowserStack**, **Confluence**
 
 ---
 
