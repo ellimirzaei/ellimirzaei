@@ -59,45 +59,21 @@ I am passionate about applying modern **data stack** technologies, including **b
 **Automation Engineer / Sr. Quality Analyst**  
 _April 2024 – Present_
 
-- Spearheaded the automation framework design using **Selenium WebDriver** and **Cucumber** for large-scale AWS deployments, ensuring robust, reusable test components for data validation and application testing.
-- Led the automation efforts for mission-critical **data pipelines**, contributing to the successful deployment of automated test strategies for data quality assurance.
-- Worked with cross-functional teams to develop scalable, high-performance test plans that integrated test automation with CI/CD pipelines (AWS, Jenkins).
-- Implemented automated testing for web services using **SOAP UI** with **Groovy**, improving test efficiency and coverage for API testing.
-- Supported **Agile** processes and led retrospectives focused on enhancing automation processes and code quality, ensuring alignment with business objectives and security standards.
-
 ### **CGI**
 **Sr. Software Engineer in Test**  
 _May 2021 – April 2024_
-
-- Led a team in designing and implementing automated testing solutions for the **Data Warehouse**, focusing on **data integrity** and **pipeline testing** using **Selenium WebDriver** and **Cucumber**.
-- Worked with the **data engineering team** to ensure accurate validation of **ETL jobs** and **Big Data systems**, including data validation on **AWS S3** and **Spark**-based frameworks.
-- Integrated test automation into the **CI/CD pipeline** using **Jenkins**, accelerating release cycles and improving test coverage.
-- Automated validation of large datasets and **real-time data** feeds to ensure accuracy and reliability in **Data Warehouse** environments.
-- Mentored junior engineers on best practices in test automation, **BDD**, and **data pipeline validation**.
 
 ### **Verizon**
 **Sr. QA Engineer**  
 _Dec 2018 – April 2021_
 
-- Designed and maintained a **Selenium WebDriver** automation framework, improving the efficiency and reliability of testing for web applications.
-- Automated end-to-end tests for complex **data integrations** and **API services**, working closely with data engineers to ensure correct data flows and transformations across systems.
-- Led the integration of test automation into the **CI/CD pipeline** using **Jenkins**, improving test efficiency and enabling faster feedback cycles.
-- Worked with cross-functional teams to design and implement automation strategies for **data validation** in both functional and regression testing.
-
 ### **Bloomingdale’s**
 **QA Engineer**  
 _June 2016 – Nov 2018_
 
-- Automated testing for web applications using **Selenium WebDriver**, improving test coverage and reducing manual testing efforts.
-- Implemented an automation framework with **Cucumber**, promoting **Behavior-Driven Development (BDD)** practices that resulted in faster delivery and fewer defects.
-- Contributed to the automation of **API** and **web services testing** using **SOAP UI** and **Postman**, validating data flows and ensuring API robustness.
-
 ### **CareFirst**
 **Software Tester**  
 _Feb 2014 – May 2016_
-
-- Developed and maintained automation scripts for testing healthcare claims processing systems and **EDI transactions**, ensuring compliance with **HIPAA standards**.
-- Built complex **SQL queries** to validate data integrity across healthcare systems, automating backend validation for end-to-end workflows.
 
 ## Education
 **Bachelor's Degree**  
