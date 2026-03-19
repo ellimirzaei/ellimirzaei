@@ -1,8 +1,8 @@
 # Sr. Software Engineer in Test | Sr. Test Automation Engineer 
 
-I am a **Sr. Software Engineer in Test** with over 10 years of experience in the QA industry, specializing in both manual and automated testing of client/server and web-based applications. My expertise spans **test automation**, **software engineering**, and **data engineering**, with a strong focus on tools like **Selenium**, **Cypress**, **Tricentis Tosca**, **Playwright**, **Katalon Studio**, as well as frameworks for large-scale **data systems**.
+I am a Senior Software Engineer in Test with over 10 years of experience across UI, API, data, and microservices testing, specializing in both manual and automated testing of client/server and web-based applications. My expertise spans test automation, software engineering, and data validation, with hands-on experience building scalable frameworks using tools like Playwright, Selenium, Cypress, and Katalon, and working with modern CI/CD pipelines.  ￼
 
-I am passionate about applying modern **data stack** technologies, including **big data ecosystems** and **real-time databases**, to ensure the reliability and quality of **data pipelines** and applications. I have a proven track record in mentoring and leading teams, making critical decisions on test strategies, and ensuring that software meets business objectives while maintaining high standards for performance, security, and usability.
+I have a strong background in validating distributed systems, including event-driven architectures, Kafka messaging, and multi-service data flows, with a focus on ensuring data consistency and system reliability across environments. I’ve contributed to improving test stability, reducing flaky tests, and driving end-to-end quality across complex systems. I’ve also mentored team members, supported test strategy decisions, and worked closely with cross-functional teams to deliver high-quality, reliable software aligned with business goals.  
 
 ## Key Skills
 
