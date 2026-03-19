@@ -1,101 +1,80 @@
-# Sr. Software Engineer in Test | Sr. Test Automation Engineer 
-
-I am a Senior Software Engineer in Test with over 10 years of experience across UI, API, data, and microservices testing, specializing in both manual and automated testing of client/server and web-based applications. My expertise spans test automation, software engineering, and data validation, with hands-on experience building scalable frameworks using tools like Playwright, Selenium, Cypress, and Katalon, and working with modern CI/CD pipelines.  ￼
-
-I have a strong background in validating distributed systems, including event-driven architectures, Kafka messaging, and multi-service data flows, with a focus on ensuring data consistency and system reliability across environments. I’ve contributed to improving test stability, reducing flaky tests, and driving end-to-end quality across complex systems. I’ve also mentored team members, supported test strategy decisions, and worked closely with cross-functional teams to deliver high-quality, reliable software aligned with business goals.  
-
-## Key Skills
-
-### **Programming Languages**
-- **Java** **Python**, **JavaScript**, **TypeScript**, **HTML/CSS**, **Bash**
-
-### **Web Automation**
-- **Selenium**, **Cypress**, **Tricentis Tosca**, **Playwright**, **Katalon Studio**
-
-### **Mobile Automation**
-- **Appium**, **Katalon**
-
-### **API Automation**
-- **REST**, **Cypress**, **Postman**, **SoapUI**, **Karate**
-
-### **Performance Testing**
-- **jMeter**, **Loader.io**
-
-- ### Databases:
-- **MySQL**, **SQL Server**, **NoSQL**
-
-### **CI/CD Tools**
-- **GitHub Actions**, **GitLab CI**, **Jenkins** **Azure DevOps**
-
-### **Development Environments**
-- **Docker**, **Kubernetes**, **Openshift**
-
-### **Behavior-Driven Development (BDD)**
-- **Cucumber.io**, **Behave**, **Serenity**
-
-### **Reporting Tools**
-- **AllureReport**, **Mochawesome**, **Grafana**, **ReportPortal** 
-
-### **HTTP Monitoring**
-- **Fiddler**, **CharlesProxy**, **DevTools**
-
-### **Version Control Systems (VCS)**
-- **Azure DevOps** **GitHub**, **GitLab**, **Bitbucket**
-
-### **Issue Tracking Tools**
-- **Jira**, **Azure DevOps**
-
-### **Test Management Tools**
-- **ALM**, **Jira Xray**, **Testlink**
-
-### **Additional Skills**
-- **Agile & SDLC**, **SQL**, **ChromeDevTools**, **BrowserStack**, **Confluence**
+# 👋 Hi, I'm Ellie  
+### Sr. Software Engineer in Test | Sr. Test Automation Engineer  
 
 ---
 
-## Professional Experience
+## 🚀 About Me
+I’m a Senior Software Engineer in Test with 10+ years of experience across **UI, API, data, and microservices testing**.
 
-### **United States Geological Survey (USGS)**
-**Automation Engineer / Sr. Quality Analyst**  
-_April 2024 – Present_
-
-### **CGI**
-**Sr. Software Engineer in Test**  
-_May 2021 – April 2024_
-
-### **Verizon**
-**Sr. QA Engineer**  
-_Dec 2018 – April 2021_
-
-### **Bloomingdale’s**
-**QA Engineer**  
-_June 2016 – Nov 2018_
-
-### **CareFirst**
-**Software Tester**  
-_Feb 2014 – May 2016_
-
-## Education
-**Bachelor's Degree**  
-George Mason University – Fairfax, VA
-
-## Certifications
-- [ISTQB Certified Tester](https://atsqa.org/certified-testers/profile/0fccc7a7503349b0816c7bcee50a56c0)
-- [Certified Scrum Master](https://www.credly.com/badges/a5c3dede-22eb-4558-9a6d-0488f8c80b7f/linked_in_profile)
-- [Automation Testing from George Mason University](https://drive.google.com/file/d/1sccr7IF_qe4Ua5t24FyYyyW2RUkMta6Q/view?usp=sharing)
-- [IBM AI Engineering Professional](https://drive.google.com/file/d/1Uv6FlpMA3D4-ZNk1QkJOEkPo29IWk9W1/view?usp=sharing)
-- [Python for Data Science and Machine](https://drive.google.com/file/d/1_FR27fPIX8oMe7l_jONoZA7YKHKNXdBL/view?usp=sharing)
-- [Katalon Studio 2020 for Web API Test Automation](https://drive.google.com/file/d/1XNHrbKWonURWgqPaTzV8cDczn1dBemdO/view?usp=sharing)
-- [Automation Testing using Selenium](https://drive.google.com/file/d/1gwDl7HgDJdJNnen6jzI2GMuJskzYPZGJ/view?usp=sharing)
-- [Excel Expert Certified](https://drive.google.com/file/d/1C55rFGicXoDAu27Cl1ztNOFjRw_ynDFb/view?usp=sharing)
-
-
-## Projects & Contributions
-You can explore my personal projects, automation frameworks, and contributions to open-source repositories on my [GitHub profile](https://github.com/ellimirzaei?tab=repositories).
-
-## Contact
-Feel free to reach out to me via email at [elliemirzae@gmail.com](mailto:elliemirzae@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elliemirzaei/).
+- 🔧 Building scalable automation frameworks with **Playwright, Selenium, Cypress, Katalon**
+- 🔍 Focused on **end-to-end quality**, including APIs, Kafka, and data pipelines  
+- ⚙️ Experienced in **distributed systems & multi-service data validation**
+- 🚀 Strong in **CI/CD integration** for faster and reliable releases  
+- 🧠 Systems-level thinker — I test how everything works together, not just features  
+- 🤝 Mentoring engineers & improving test strategy and framework stability  
+- ⚡ Using **AI-assisted tools** to speed up testing and debugging  
 
 ---
 
-Thank you for visiting my profile!
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+`Java` `Python` `JavaScript` `TypeScript` `HTML/CSS` `Bash`
+
+### 🌐 Web Automation
+`Selenium` `Playwright` `Cypress` `Tricentis Tosca` `Katalon`
+
+### 📱 Mobile Automation
+`Appium` `Katalon`
+
+### 🔗 API Testing
+`REST` `Postman` `SoapUI` `Karate`
+
+### ⚡ Performance Testing
+`JMeter` `Loader.io`
+
+### 🗄️ Databases
+`MySQL` `SQL Server` `NoSQL`
+
+### 🔄 CI/CD
+`GitHub Actions` `GitLab CI` `Jenkins` `Azure DevOps`
+
+### ☁️ Dev Environment
+`Docker` `Kubernetes` `OpenShift`
+
+### 📊 Reporting & Monitoring
+`Allure` `Mochawesome` `Grafana` `ReportPortal`  
+`Fiddler` `CharlesProxy` `DevTools`
+
+---
+
+## 💼 Experience
+- **USGS** — Automation Engineer / Sr. Quality Analyst *(2024 – Present)*  
+- **CGI** — Sr. Software Engineer in Test *(2021 – 2024)*  
+- **Verizon** — Sr. QA Engineer *(2018 – 2021)*  
+- **Bloomingdale’s** — QA Engineer *(2016 – 2018)*  
+- **CareFirst** — Software Tester *(2014 – 2016)*  
+
+---
+
+## 🎓 Education
+🎓 George Mason University — Bachelor's Degree  
+
+---
+
+## 📜 Certifications
+- ISTQB Certified Tester  
+- Certified Scrum Master  
+- IBM AI Engineering Professional  
+- Selenium & Automation Certifications  
+
+---
+
+## 🔗 Connect with Me
+- 📧 elliemirzae@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/elliemirzaei/)  
+- 💻 [GitHub](https://github.com/ellimirzaei)
+
+---
+
+⭐️ *Always focused on building reliable systems, improving quality, and making testing scalable.*
